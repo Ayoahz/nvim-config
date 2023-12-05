@@ -1,6 +1,6 @@
 # 💤 Ninez's neovim dotfiles
 
-## 这里是我的Neovim配置文件
+## Here is my neovim config files
 
 Based On LazyVim.
 
